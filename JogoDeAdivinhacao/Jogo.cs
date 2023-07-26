@@ -4,7 +4,6 @@ class Jogo
 {
     private int numeroMinimo { get; set; }
     private int numeroMaxino { get; set; }
-
     private Random NumeroAleatorio = new Random();
     private int Palpite { get; set; }
     private int Tentativas { get; set; }
