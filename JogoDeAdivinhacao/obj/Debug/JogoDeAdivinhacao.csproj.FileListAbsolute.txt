@@ -1,0 +1,8 @@
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe.config
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.pdb
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.AssemblyReference.cache
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.exe
+C:\Users\Adão\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.pdb
